@@ -7,7 +7,7 @@ The smallest value it can represent is -(2^31) = -2,147,483,648.
 */
 
 //M1, basic iteration
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -27,7 +27,7 @@ int main(){
         cout << "r " << arrangeCoins(0) << endl;
     }
 ;
-*/
+
 //M2, Math
 /*
 total coins -> sum = (1+k)*k/2
